@@ -1,5 +1,6 @@
-# Maintainer: @brunton
-# Web: http://brunston.io
+# Maintainer: @brunston
+#        Web: http://brunston.io
+#    License: BSD 3-clause
 
 import urllib.request as urlreq
 
